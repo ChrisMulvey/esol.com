@@ -1,0 +1,4 @@
+C:\Dev\Repos\esol.com\OAuth\Microsoft.Identity.Web\obj\Debug\netcoreapp3.0\Microsoft.Identity.Web.csprojAssemblyReference.cache
+C:\Dev\Repos\esol.com\OAuth\Microsoft.Identity.Web\obj\Debug\netcoreapp3.0\Microsoft.Identity.Web.sourcelink.json
+C:\Dev\Repos\esol.com\OAuth\Microsoft.Identity.Web\obj\Debug\netcoreapp3.0\Microsoft.Identity.Web.AssemblyInfoInputs.cache
+C:\Dev\Repos\esol.com\OAuth\Microsoft.Identity.Web\obj\Debug\netcoreapp3.0\Microsoft.Identity.Web.AssemblyInfo.cs

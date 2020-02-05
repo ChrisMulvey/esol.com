@@ -1,0 +1,8 @@
+C:\Dev\Repos\esol.com\OAuth\Microsoft.Identity.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.deps.json
+C:\Dev\Repos\esol.com\OAuth\Microsoft.Identity.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.dll
+C:\Dev\Repos\esol.com\OAuth\Microsoft.Identity.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.pdb
+C:\Dev\Repos\esol.com\OAuth\Microsoft.Identity.Web\obj\Debug\netcoreapp3.1\Microsoft.Identity.Web.sourcelink.json
+C:\Dev\Repos\esol.com\OAuth\Microsoft.Identity.Web\obj\Debug\netcoreapp3.1\Microsoft.Identity.Web.AssemblyInfoInputs.cache
+C:\Dev\Repos\esol.com\OAuth\Microsoft.Identity.Web\obj\Debug\netcoreapp3.1\Microsoft.Identity.Web.AssemblyInfo.cs
+C:\Dev\Repos\esol.com\OAuth\Microsoft.Identity.Web\obj\Debug\netcoreapp3.1\Microsoft.Identity.Web.dll
+C:\Dev\Repos\esol.com\OAuth\Microsoft.Identity.Web\obj\Debug\netcoreapp3.1\Microsoft.Identity.Web.pdb

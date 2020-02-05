@@ -36,6 +36,12 @@ namespace WebApp_OpenIDConnect_DotNet
             services.AddAuthentication(AzureADDefaults.AuthenticationScheme)
                 .AddAzureAD(options => Configuration.Bind("AzureAd", options));
 
+            // Token acquisition service based on MSAL.NET
+            // and chosen token-cache implementation
+            //services.AddMicrosoftIdentityPlatformAuthentication(Configuration)
+            //    .AddMsal(Configuration, new string[] { "User.Read" })
+            //    .AddInMemoryTokenCaches();
+
             services.Configure<OpenIdConnectOptions>(AzureADDefaults.OpenIdScheme, options =>
             {
                 options.Authority = options.Authority + "/v2.0/";
