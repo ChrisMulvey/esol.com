@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Sign Out";
+}
+<h2>@ViewBag.Title.</h2>
+
+
+    <form id="form1" runat="server">
+        <asp:Button ID="Button1" runat="server" OnClick="ImageToBase_Click" Text="Image to Base64" />
+        <asp:TextBox ID="TextBox1" runat="server" Height="146px" TextMode="MultiLine"></asp:TextBox>
+        <br />
+        <asp:Button ID="Button2" runat="server" OnClick="BaseToImage_Click" Text="Base64 To Image" />
+        <asp:Image ID="Image1" runat="server" Height="157px" style="margin-top: 0px; margin-right: 4px;" Width="168px" />
+    </form>
